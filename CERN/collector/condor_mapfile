@@ -1,0 +1,37 @@
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms85.cern.ch" schedd_vocms85
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms121.cern.ch" schedd_vocms121
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms142.cern.ch" schedd_vocms142
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms164.cern.ch" schedd_vocms164
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms201.cern.ch" schedd_vocms201
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms202.cern.ch" schedd_vocms202
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms216.cern.ch" schedd_vocms216
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms228.cern.ch" schedd_vocms228
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms230.cern.ch" schedd_vocms230
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms234.cern.ch" schedd_vocms234
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms235.cern.ch" schedd_vocms235
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms237.cern.ch" schedd_vocms237
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms97.cern.ch" cern_coll
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms96.cern.ch" schedd_vocms96
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv94.fnal.gov" schedd_cmssrv94
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv98.fnal.gov" schedd_cmssrv98
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv101.fnal.gov" schedd_cmssrv101
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv112.fnal.gov" schedd_cmssrv112
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv113.fnal.gov" schedd_cmssrv112
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv94.fnal.gov" schedd_cmssrv94 
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv98.fnal.gov" schedd_cmssrv98 
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv101.fnal.gov" schedd_cmssrv101 
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv112.fnal.gov" schedd_cmssrv112 
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv113.fnal.gov" schedd_cmssrv113
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv60.fnal.gov" schedd_cmssrv60
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cms-xen39.fnal.gov" schedd_cms-xen39
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms157.cern.ch" cern_frontend
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv119.fnal.gov" fnal_frontend_oldDN
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmssrv119.fnal.gov" fnal_frontend
+GSI "/DC=ch/DC=cern/OU=computers/CN=cmspilotjob/vocms157.cern.ch" pilot
+GSI "/DC=org/DC=doegrids/OU=Services/CN=uscmspilot/cmssrv119.fnal.gov" fnal_pilot1
+GSI "/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmspilotjob/cmssrv119.fnal.gov" fnal_pilot2
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv95.fnal.gov" fnal_factory
+GSI "/DC=org/DC=doegrids/OU=Services/CN=cmssrv160.fnal.gov" fnal_v3_factory
+GSI "/DC=ch/DC=cern/OU=computers/CN=vocms32.cern.ch" cern_factory
+GSI (.*) anonymous
+FS (.*) \1
